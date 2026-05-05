@@ -1,4 +1,4 @@
-# opensand
+# opensand v1.0 2026.05
 CSV-driven web engine for creating story, LP, and interactive content with pure JavaScript.
 CSVでストーリー・LP・体験コンテンツを作れる軽量Webエンジンです。
 
