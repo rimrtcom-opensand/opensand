@@ -1,0 +1,4 @@
+﻿scene,cut,next,bg,fukidashi,fukidashi_effect,text,link,movie,button,char1_img,char1_motion,char1_lip,char1_emo,char1_position,char2_img,char2_motion,char2_lip,char2_emo,char2_position,float_image,title,fukidashi_side,se,bgm,modules,config,note
+,1,2,,,,（ダミー）いらっしゃいませ、ご注文はお決まりですか？,,,,img/lumina.png,up,"[{""img"":""img/char1_lip.png"",""motion"":200,""stop"":1000,""delay"":""0""}]","[{""img"":""img/char1_mabataki.png""},{""em"":2}]",left,,,,,,,,,,,,,
+,2,3,,,,（ダミー）カラン、とドアの音が鳴った。{br}静かな午後のカフェに、少しだけ空気が流れ込む。,,,,,,,,,img/youta.png,right,,"[{""em"":8}]",right,,,,,,,,
+,3,1,,,,（ダミー）あら、また来たの？{hz}…まあ、席なら空いてるけど。,,,,,,,,,,,,,,,,,,,,,
